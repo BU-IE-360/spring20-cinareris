@@ -1,8 +1,8 @@
-# Progress Journal
+## Progress Journal
 
-##Homework0
-[Here](files/example_homework_0) is the homework0.
+#Homework0 is
+[Here](files/example_homework_0) 
 
-##Project
-[Here](files/IE360_Project Report) is the project.
+#Project is
+[Here](files/IE360_Project Report) 
 
